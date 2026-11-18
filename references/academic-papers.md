@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=0B963916637B8F34B295FCF4A51A1BE5)。
 - 原文来源：[《南方水产科学》网站公开的标准 PDF](https://www.schinafish.cn/fileNFSCKX/cms/news/info/2023/02/38e800ebd58046bebe93af5a41139af1/GBT%207713.2%E2%80%942022.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-7713.2-2022.pdf)。
 - 本文件对应第 4 章、第 5 章和规范性附录 A。附录 B 的字体字号表属于资料性参考。
 
 ## 2. 题名、摘要与正文

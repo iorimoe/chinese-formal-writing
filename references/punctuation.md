@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=22EA6D162E4110E752259661E1A0D0A8)。
 - 原文来源：[教育部网站公开的标准 PDF](https://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-15834-2011.pdf)。
 - 本文件整理第 4 章、第 5 章及规范性附录 A 中与正式文稿相关的用法。附录 B 为资料性说明。
 
 ## 2. 句内与句末标点

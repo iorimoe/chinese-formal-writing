@@ -6,6 +6,7 @@
 
 - 标准信息：[全国标准信息公共服务平台](https://std.samr.gov.cn/gb/search/gbDetailedCNF?id=4507EFE13D37CB6AE06397BE0A0A601F)。
 - 原文来源：[安徽商贸职业技术学院学报编辑部公开的标准 PDF](https://www2.abc.edu.cn/xbbjb/upload/2026-01/26012010262341.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-7714-2025.pdf)。
 - 本文件整理第 4 章至第 9 章及规范性附录 A。附录 B 为资料性著录示例。
 
 ## 2. 信息与通用著录要求

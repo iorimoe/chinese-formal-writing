@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=6B20B8B934FD23161550CF80BEC0F507)。
 - 原文来源：[广东轻工职业技术大学科学技术部发布页](https://kyc.gdipu.edu.cn/info/1020/1161.htm)及其[标准 PDF](https://kyc.gdipu.edu.cn/__local/F/3E/6B/9A2B609677F7E99414A460AE245_02A4D611_12D8F0.pdf?e=.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-3101-1993.pdf)。
 - 原文版面标号为 GB 3101—93。国家标准全文公开系统注明该标准自 2017 年 3 月 23 日转为推荐性标准，固定引用采用 GB/T 3101—1993。条款号沿用该版原文。
 
 ## 2. 量、数值与量纲

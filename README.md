@@ -23,7 +23,7 @@ git clone https://github.com/iorimoe/chinese-formal-writing.git \
 | 修改 | `$chinese-formal-writing` 修改选中的操作说明，写清校验失败后的处理步骤，保留原有验收指标。 | 指定范围的修订稿 |
 | 审查 | `$chinese-formal-writing` 审查这段论文摘要，逐项指出术语、数字和单位的问题。 | 问题位置、判断依据和修改建议，原稿保留 |
 
-文种和读者决定适用的规则。例如，修改学位论文摘要时查阅学位论文条款，编写技术方案时沿用项目已有模板。标准版本固定，日常写作直接使用本地摘要。完整的写作规则、标准编号及条款来源见[技能说明](SKILL.md)和[国家标准索引](references/standards.md)。
+文种和读者决定适用的规则。例如，修改学位论文摘要时查阅学位论文条款，编写技术方案时沿用项目已有模板。日常写作按固定版本的条款摘要执行。安装包附有九项标准的 PDF，可从[国家标准索引](references/standards.md)按编号打开，离线查阅完整条文、图表和附录。文种与摘要的对应关系见[技能说明](SKILL.md)。
 
 ## 反馈与贡献
 
@@ -31,4 +31,4 @@ git clone https://github.com/iorimoe/chinese-formal-writing.git \
 
 ## 许可证
 
-本项目的原创内容采用 MIT 许可证。链接所指向的国家标准及其他第三方资料沿用各自的使用条件。[MIT 许可证](LICENSE)
+本项目的原创内容采用 MIT 许可证。随附的国家标准 PDF 及链接所指向的第三方资料沿用各自的使用条件。[MIT 许可证](LICENSE)

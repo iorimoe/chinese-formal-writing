@@ -6,6 +6,7 @@
 
 - 标准信息：[全国标准信息公共服务平台](https://std.samr.gov.cn/gb/search/gbDetailedCNF?id=71F772D7AA78D3A7E05397BE0A0AB82A)。
 - 原文来源：[广东轻工职业技术大学科学技术部发布页](https://kyc.gdipu.edu.cn/info/1020/1152.htm)及其[标准 PDF](https://kyc.gdipu.edu.cn/__local/1/2D/E2/94E88C83422878ED4C59D0B21D0_818C517F_E74A0.pdf?e=.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GB-3100-1993.pdf)。
 - 本文件整理第 3 章至第 7 章中单位名称、符号及书写要求。
 
 ## 2. 基本单位与常用导出单位

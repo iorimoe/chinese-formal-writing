@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=F5DAC3377DA99C8D78AE66735B6359C7)。
 - 原文来源：[教育部网站公开的标准 PDF](https://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-15835-2011.pdf)。
 - 本文件对应第 4 章和第 5 章；科学技术文稿的分节写法同时采用[量与符号规则](quantities-symbols.md)。
 
 ## 2. 数字形式

@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=36C05B5738C54D42B4B262525320B52F)。
 - 原文来源：[湖南农业大学研究生院公开的标准 PDF](https://yjsy.hunau.edu.cn/xwgz/xgxz_1462/202603/P020260325595645822472.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-7713.1-2025.pdf)。
 - 本文件对应第 4 章至第 6 章和规范性附录 A。附录 B 至附录 H 为资料性编排示例。
 
 ## 2. 文字、题名与前置内容

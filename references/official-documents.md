@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=F3CC9BEF482524C895FDA7A08BB4A70E)。
 - 原文来源：[南阳市人民政府网站公开的标准全文](https://www.nanyang.gov.cn/2021/05-08/53205.html)，发布部门为南阳市金融工作局，页面注明转载自朝阳市人力资源和社会保障局网站。
+- 本地原文：[GB/T 9704—2012（PDF）](originals/GBT-9704-2012.pdf)。归档文件取自[长春大学旅游学院公开的 PDF](https://www.tccu.edu.cn/_upload/article/files/86/64/602fb1c84897b1dd5e9a44139468/b84e006a-f083-42eb-b9d9-290e6e33e516.pdf)，含第 11 章的 12 幅公文式样。
 - 本文件整理第 5 章、第 7 章至第 10 章中的写作与排版条款。标准原文第 1 章规定的对象为党政机关公文；其他机关和单位的公文可参照执行。
 
 ## 2. 页面与正文

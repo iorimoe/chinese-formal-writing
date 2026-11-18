@@ -6,6 +6,7 @@
 
 - 标准信息：[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=E2BA32B0F5E570E5844A9E7E2D42393F)。
 - 原文来源：[清华大学图书馆公开的标准 PDF](https://lib.tsinghua.edu.cn/wj/GBT7713_3-2014.pdf)。
+- 本地原文：[标准全文（PDF）](originals/GBT-7713.3-2014.pdf)。
 - 本文件对应第 4 章、第 5 章及规范性附录 A；附录 B 至附录 G 为资料性内容。
 
 ## 2. 组成与前置部分
