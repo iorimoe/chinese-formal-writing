@@ -1,17 +1,17 @@
-# 中文正式写作
+# 中文写作国标指南
 
-`chinese-formal-writing` 是用于编写、修改和审查简体中文正式文稿的 Codex 技能。它按文种查阅本地条款，可用于公文、学位论文、学术论文、科技报告、技术方案和操作说明，也可单独处理标题、摘要或一段正文。
+这项 Codex 技能根据文种和内容查阅相应的国家标准，辅助编写、修改和审查简体中文正式文稿。适用文种包括公文、学位论文、学术论文、科技报告、技术方案和操作说明。也可单独核对标题、摘要或一段正文。
 
 ## 安装
 
-**通过 Git 安装。** 在 macOS 或 Linux 上，使用具有仓库读取权限的 Git 凭据，执行以下命令。
+**通过 Git 安装。** 在 macOS 或 Linux 上执行以下命令。
 
 ```sh
 git clone https://github.com/iorimoe/chinese-formal-writing.git \
   "${CODEX_HOME:-$HOME/.codex}/skills/chinese-formal-writing"
 ```
 
-**通过浏览器安装。** 登录有权访问仓库的 GitHub 账户，在仓库首页选择 **Code → Download ZIP**。解压后，将包含 `SKILL.md` 的目录重命名为 `chinese-formal-writing`，连同其中的文件一起放入用户主目录下的 `.codex/skills/`。如已设置 `CODEX_HOME`，则放入该目录的 `skills/` 子目录。
+**通过浏览器安装。** 在仓库首页选择 **Code → Download ZIP**。解压后，将包含 `SKILL.md` 的目录重命名为 `chinese-formal-writing`，连同其中的文件一起放入用户主目录下的 `.codex/skills/`。如已设置 `CODEX_HOME`，则放入该目录的 `skills/` 子目录。
 
 ## 使用示例
 
